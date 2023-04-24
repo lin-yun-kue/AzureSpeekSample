@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XpyUvVsYlmQp4g4wIwl5UEUUrREHruppWzlpEZx3Fvmamrym4QDxDNaV2mYOoUc5Dqk4xT3IFlZ8/R5wOzcuSg==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\AzureTTS\\AzureViseme\\AzureViseme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kyle.lin\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.27.0\\microsoft.cognitiveservices.speech.1.27.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M7J1Rn8Y4nBBPX6R1b793hB+TB/vKfXAhRem9WFsq1E378lzPWXCZ3sH7ecCvZzXZPKxOqWZz5T5Jsu/dhfUiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\AzureTTS\\AzureIntentRecognizer\\AzureIntentRecognizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kyle.lin\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.27.0\\microsoft.cognitiveservices.speech.1.27.0.nupkg.sha512"
+  ],
+  "logs": []
+}
